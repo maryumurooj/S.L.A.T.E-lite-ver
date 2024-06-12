@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/LissajousAnimation/3977891868_1567087615_223132457.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/LissajousAnimation/2852726489_229896448_2702885519.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/LissajousAnimation/2852726489_2582481613_3874747852.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/LissajousAnimation/2852726489_2999291583_2385579040.mp4'

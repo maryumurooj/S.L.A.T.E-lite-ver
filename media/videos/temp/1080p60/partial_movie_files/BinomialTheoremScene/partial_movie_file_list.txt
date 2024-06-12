@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/3977891868_1798644684_223132457.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_229896448_952556341.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_1511870192_329592015.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_1278261450_3185497077.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_229896448_4002715620.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_1899668097_1257649543.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_229896448_28967528.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_414533760_3804545329.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_2999291583_1472069639.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_132917115_922604624.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/BinomialTheoremScene/2852726489_2999291583_1184438375.mp4'

@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/CubeSphereRotation/4030752421_4205520711_260392508.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/CubeSphereRotation/1947618691_352031149_726366159.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/CubeSphereRotation/1947618691_3438219438_407837931.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/CubeSphereRotation/1947618691_3049590706_919498542.mp4'
+file 'file:C:/Users/DELL/Desktop/SLATETEST/media/videos/temp/1080p60/partial_movie_files/CubeSphereRotation/1947618691_3438219438_1407419994.mp4'
