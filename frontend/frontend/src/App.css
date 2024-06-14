@@ -1,0 +1,91 @@
+.main {
+  width: 75vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(200, 226, 249);
+  color: white;
+}
+
+.input {
+  background-color: rgb(72, 72, 72);
+  height: 10vh;
+  width: 1200px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.input form {
+  display: flex;
+  gap: 20px;
+}
+
+.input form button {
+  border: 1px solid black;
+  border-radius: 100%;
+  width: auto;
+  height: 30px;
+  background-color: transparent;
+  cursor: pointer;
+  position: absolute;
+  right: 80px;
+  bottom: 15px;
+}
+
+.input form input {
+  border: none;
+  width: 85vw;
+  height: 20px;
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.output {
+  background-color: rgb(72, 72, 72);
+  height: 85vh;
+  width: 1100px;
+  overflow-y: scroll;
+  padding: 50px;
+  align-items: center;
+}
+
+.output::-webkit-scrollbar {
+  width: 7px;
+  background-color: transparent;
+}
+
+.output::-webkit-scrollbar-thumb {
+  background-color: transparent;
+  border-radius: 10px;
+}
+
+.output:hover::-webkit-scrollbar-thumb {
+  background-color: rgba(145, 145, 145, 0.5);
+}
+
+.output::-webkit-scrollbar {
+  width: 10px;
+}
+
+.output::-webkit-scrollbar-thumb {
+  background-color: rgba(173, 173, 173, 0.5);
+  border-radius: 5px;
+}
+
+.output::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.output video {
+  width: 70vw;
+}
+
+.loading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 24px;
+  font-weight: bold;
+}
